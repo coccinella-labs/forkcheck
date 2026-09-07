@@ -3,3 +3,5 @@
 </p>
 
 fork testing.
+
+Scratch repository used to verify fork behavior (`test.txt`). No build, no dependencies.
